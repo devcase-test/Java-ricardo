@@ -1,1 +1,1 @@
-# Java-ricardo
+Dummy template
